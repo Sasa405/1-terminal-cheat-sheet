@@ -5,7 +5,7 @@
 
 
 
-Verzeichnis-Befehle
+#  Verzeichnis-Befehle
 
 
 Das **Tilde-Symbol** (~) steht für Ihr Heimatverzeichnis. 
@@ -13,10 +13,16 @@ Wenn Sie user sind, dann steht die Tilde (~) für /home/user
 
 
 **pwd**: Mit dem Befehl pwd können Sie feststellen, in welchem Verzeichnis Sie sich befinden (pwd steht für "print working directory").
-**Beispiel**: "pwd" im Desktop-Verzeichnis zeigt "~/Desktop" an. Beachten Sie, dass das GNOME-Terminal diese Informationen auch in der Titelleiste seines Fensters anzeigt. Eine nützliche Gnemonik ist "present working directory".
+
+**Beispiel**: 
+
+"pwd" im Desktop-Verzeichnis zeigt "~/Desktop" an. Beachten Sie, dass das GNOME-Terminal diese Informationen auch in der Titelleiste seines Fensters anzeigt. Eine nützliche Gnemonik ist "present working directory".
 
 
-ls: Mit dem Befehl ls können Sie sich die Dateien in Ihrem aktuellen Verzeichnis anzeigen lassen ("auflisten"). In Verbindung mit bestimmten Optionen können Sie die Größe der Dateien, das Erstellungsdatum und die Berechtigungen der Dateien anzeigen. Beispiel: "ls ~" zeigt Ihnen die Dateien an, die sich in Ihrem Heimatverzeichnis befinden.
+**ls**: Mit dem Befehl ls können Sie sich die Dateien in Ihrem aktuellen Verzeichnis anzeigen lassen ("**auflisten**").
+In Verbindung mit bestimmten Optionen können Sie die Größe der Dateien, das Erstellungsdatum und die Berechtigungen der Dateien anzeigen. 
+
+**Beispiel**: "ls ~" zeigt Ihnen die Dateien an, die sich in Ihrem Heimatverzeichnis befinden.
 
 cd: Mit dem cd-Befehl können Sie Verzeichnisse wechseln. Wenn Sie ein Terminal öffnen, befinden Sie sich in Ihrem Heimatverzeichnis. Um sich im Dateisystem zu bewegen, verwenden Sie cd. Beispiele:
 
